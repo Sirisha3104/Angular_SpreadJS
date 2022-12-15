@@ -1,0 +1,48 @@
+{
+    "name": "angular-sample",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "2.4.0"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@angular/animations": "~7.1.0",
+        "@angular/common": "~7.1.0",
+        "@angular/compiler": "~7.1.0",
+        "@angular/core": "~7.1.0",
+        "@angular/forms": "~7.1.0",
+        "@angular/http": "~7.1.0",
+        "@angular/platform-browser": "~7.1.0",
+        "@angular/platform-browser-dynamic": "~7.1.0",
+        "@angular/router": "~7.1.0",
+        "core-js": "2.6.1",
+        "rxjs": "~6.3.3",
+        "tslib": "^1.9.0",
+        "zone.js": "~0.8.26",
+        "jszip": "3.1.3",
+        "plugin-typescript": "8.0.0",
+        "typescript": "3.2.2",
+        "systemjs": "0.21.5",
+        "systemjs-plugin-css": "0.1.37",
+        "xmldom": "0.1.27",
+        "@grapecity/spread-sheets": "latest",
+        "@grapecity/spread-sheets-angular": "latest",
+        "@grapecity/spread-excelio": "latest",
+        "@grapecity/spread-sheets-charts": "latest",
+        "@grapecity/spread-sheets-print": "latest",
+        "@grapecity/spread-sheets-pdf": "latest",
+        "@grapecity/spread-sheets-barcode": "latest",
+        "@grapecity/spread-sheets-shapes": "latest",
+        "@grapecity/spread-sheets-resources-ko": "latest",
+        "@grapecity/spread-sheets-resources-ja": "latest",
+        "@grapecity/spread-sheets-resources-zh": "latest",
+        "@grapecity/spread-sheets-pivot-addon": "latest",
+        "@grapecity/spread-sheets-languagepackages": "latest"
+    }
+}
